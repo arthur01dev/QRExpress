@@ -10,7 +10,7 @@ Bem-vindo ao QRExpress, um projeto open source que oferece uma solução simples
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./image/qr-code-readme.png" width="100%">
+  <img alt="projeto QRExpress" src="./image/qr-code-readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
